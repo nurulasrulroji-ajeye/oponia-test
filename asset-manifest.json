@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/oponia-test/static/css/main.c8aaa396.css",
+    "main.js": "/oponia-test/static/js/main.59978884.js",
+    "static/media/banner.png": "/oponia-test/static/media/banner.787064d6f97f41fb38a2.png",
+    "static/media/postingan.png": "/oponia-test/static/media/postingan.1ef2edcdfbbdd380efae.png",
+    "static/media/pp.png": "/oponia-test/static/media/pp.f6f062da36a641e683ad.png",
+    "index.html": "/oponia-test/index.html",
+    "main.c8aaa396.css.map": "/oponia-test/static/css/main.c8aaa396.css.map",
+    "main.59978884.js.map": "/oponia-test/static/js/main.59978884.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8aaa396.css",
+    "static/js/main.59978884.js"
+  ]
+}
